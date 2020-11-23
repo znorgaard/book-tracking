@@ -1,16 +1,17 @@
 Package: bookTrackR
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Package for vizualizing reading habits
+Version: 0.1.0
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Zach",
+           family = "Norgaard",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "zach807@gmail.com")
+Description: This package supplies tools for visualizing data from tables of books you've read.
+License: `use_mit_license()`
 Encoding: UTF-8
-LazyData: true
-Roxygen: list(markdown = TRUE)
+Imports:
+  assertable
+  assertthat
 RoxygenNote: 7.1.1
+Suggests:
+  testthat
