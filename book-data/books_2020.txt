@@ -1,0 +1,35 @@
+Title	Author	Author_Sex	Pages	Publication_Year	Original_Language	Genre	Type	Started	Finished	Format	Rating
+The Girl in the Spider's Web	David Lagercrantz	M	400	2015	Swedish	Fiction	Fiction	2019-12-31	2020-01-09	Audio	3
+Never Let Me Go	Kazuo Ishiguro	M	288	2005	English	Fiction	Fiction	2020-01-02	2020-01-18	Physical	5
+The Girl Who Takes an Eye for an Eye	David Lagercrantz	M	348	2017	Swedish	Fiction	Fiction	2020-01-11	2020-01-21	Audio	2
+All the Pretty Horses	Cormac McCarthy	M	302	1992	English	Fiction	Fiction	2020-01-18	2020-02-12	Physical	5
+Sputnik Sweetheart	Haruki Murakami	M	210	1999	Japanese	Fiction	Fiction	2020-02-02	2020-02-07	Physical	4
+The Priory of the Orange Tree	Samantha Shannon	F	848	2019	English	Fantasy	Fiction	2020-01-25	2020-02-12	Audio	5
+The Night Sister	Jennifer McMahon	F	384	2015	English	Horror	Fiction	2020-02-12	2020-02-16	Physical	3
+Sorcerer to the Crown	Zen Cho	F	371	2015	English	Fantasy	Fiction	2020-02-23	2020-02-28	Audio	4
+The True Queen	Zen Cho	F	384	2019	English	Fantasy	Fiction	2020-03-02	2020-03-11	Audio	4
+Red Country	Joe Abercrombie	M	469	2012	English	Fantasy	Fiction	2020-03-16	2020-03-25	Audio	4
+The Girl Who Lived Twice	David Lagercrantz	M	368	2019	Swedish	Fiction	Fiction	2020-03-25	2020-04-01	Audio	2
+The Winter People	Jennifer McMahon	F	317	2014	English	Horror	Fiction	2020-04-04	2020-04-11	Audio	3
+Dark Age	Pierce Brown	M	704	2019	English	Science Fiction	Fiction	2020-04-24	2020-05-29	Audio	3
+Demons	Fyodor Dostoyevsky	M	768	1872	Russian	Classics	Fiction	2020-02-18	2020-06-13	Physical	3
+Red Rising	Pierce Brown	M	382	2014	English	Science Fiction	Fiction	2020-06-04	2020-06-13	Audio	5
+The Last Unicorn	Peter S. Beagle	M	304	1968	English	Fantasy	Fiction	2020-06-08	2020-07-06	Physical	5
+The Cruise of the Rolling Junk	F. Scott Fitzgerald	M	120	1924	English	Travel	Nonfiction	2020-07-06	2020-07-14	Physical	4
+Golden Son	Pierce Brown	M	430	2015	English	Science Fiction	Fiction	2020-06-25	2020-07-18	Audio	5
+Morning Star	Pierce Brown	M	524	2016	English	Science Fiction	Fiction	2020-07-18	2020-08-04	Audio	5
+The Flight of the Iguana: A Sidelong View of Science and Nature	David Quammen	M	320	1988	English	Science	Nonfiction	2020-07-18	2020-08-10	Physical	4
+The Art of Gathering: How We Meet and Why It Matters	Priya Parker	F	320	2018	English	Nonfiction	Nonfiction	2020-08-11	2020-08-19	Digital	5
+Best Served Cold	Joe Abercrombie	M	534	2009	English	Fantasy	Fiction	2020-08-05	2020-08-28	Audio	3
+The Penultimate Truth	Philip K. Dick	M	239	1964	English	Science Fiction	Fiction	2020-08-19	2020-09-12	Physical	5
+The Break Down	B.A. Paris	F	352	2017	English	Thriller	Fiction	2020-09-15	2020-09-17	Physical	3
+The Accidental Species: Misunderstanding of Human Evolution	Henry Gee	M	224	2013	English	Science	Nonfiction	2020-09-17	2020-09-28	Physical	4
+The Heroes	Joe Abercrombie	M	581	2011	English	Fantasy	Fiction	2020-08-31	2020-10-11	Audio	5
+Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures	Nick Pyenson	M	336	2018	English	Nonfiction	Nonfiction	2020-09-30	2020-10-11	Digital	4
+The Searcher	Tana French	F	464	2020	English	Mystery	Fiction	2020-10-12	2020-10-21	Digital	4
+The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America	Erik Larson	M	447	2003	English	Nonfiction	Nonfiction	2020-10-12	2020-10-22	Audio	4
+Born a Crime: Stories From a South African Childhood	Trevor Noah	M	289	2016	English	Nonfiction	Nonfiction	2020-10-23	2020-10-30	Audio	5
+The Imaginary Corpse	Tyler Hayes	M	400	2019	English	Fantasy	Fiction	2020-10-24	2020-11-01	Digital	3
+The Secret Life of Cows	Rosamund Young	F	150	2003	English	Nonfiction	Nonfiction	2020-11-02	2020-11-07	Physical	1
+Rendezvous with Rama	Arthur C. Clarke	M	243	1973	English	Science Fiction	Fiction	2020-10-31	2020-11-05	Audio	4
+Green Lantern by Geoff Johns Book One	Geoff Johns	M	400	2019	English	Comics	Fiction	2020-11-09	2020-11-10	Digital	4

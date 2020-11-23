@@ -1,0 +1,106 @@
+Title	Author	Author_Sex	Pages	Publication_Year	Original_Language	Genre	Type	Started	Finished	Format	Rating
+Abandon	Meg Cabot	F	304	2011	English	Young Adult	Fiction	2015-12-22	2016-01-06	Audio	1
+The Magician King	Lev Grossman	M	400	2011	English	Fiction	Fiction	2015-12-29	2016-01-05	Digital	4
+The Girl with All the Gifts	M.R. Carey	M	460	2014	English	Horror	Fiction	2016-01-05	2016-01-10	Digital	4
+Thirteen Reasons Why	Jay Asher	M	288	2007	English	Young Adult	Fiction	2016-01-06	2016-01-13	Audio	4
+The Cucumber King of Kedainiai	Wendell Mayo	M	124	2013	English	Fiction	Fiction	2016-01-10	2016-01-16	Physical	4
+How to Read a Book: The Classic Guide to Intelligent Reading	Mortimer J. Alder and Charles Van Doren	M	426	1940	English	Nonfiction	Nonfiction	2016-01-11	2016-01-21	Digital	3
+Fight Club	Chuck Palahniuk	M	218	1996	English	Thriller	Fiction	2016-01-13	2016-01-20	Audio	4
+V for Vendetta	Alan Moore	M	296	1982	English	Graphic Novels	Fiction	2016-01-18	2016-01-30	Physical	4
+The Perfect Storm: A True Story of Men Against the Sea	Sebastian Junger	M	248	1997	English	Nonfiction	Nonfiction	2016-01-20	2016-01-24	Audio	4
+Darkness Visible: A Memoir of Madness	William Styron	M	84	1990	English	Nonfiction	Nonfiction	2016-01-21	2016-01-25	Digital	3
+Strip Tease	Carl Hiassen	M	464	1993	English	Fiction	Fiction	2016-01-25	2016-02-07	Audio	2
+The Hitchhiker's Guide to the Galaxy	Douglas Adams	M	216	1979	English	Science Fiction	Fiction	2016-01-25	2016-01-31	Digital	4
+Mother Night	Kurt Vonnegut	M	282	1961	English	Fiction	Fiction	2016-02-01	2016-02-05	Physical	3
+The Oresteia	Aeschylus	M	335	-458	Ancient Greek	Classics	Fiction	2016-02-05	2016-02-15	Digital	3
+Morning Star	Pierce Brown	M	524	2016	English	Science Fiction	Fiction	2016-02-09	2016-02-12	Audio	5
+How Music Works	David Byrne	M	345	2012	English	Music	Nonfiction	2016-02-15	2016-02-26	Audio	4
+Oedipus Trilogy	Sophocles	M	236	-400	Ancient Greek	Mythology	Fiction	2016-02-15	2016-02-19	Digital	4
+The Ables	Jeremy Scott	M	364	2015	English	Fantasy	Fiction	2016-02-16	2016-02-23	Physical	4
+Dark Places	Gillian Flynn	F	349	2009	English	Mystery	Fiction	2016-02-24	2016-03-01	Digital	4
+With a Tangled Skein	Piers Anthony	M	405	1985	English	Fantasy	Fiction	2016-02-28	2016-03-04	Audio	2
+The Magician's Land	Lev Grossman	M	402	2014	English	Fantasy	Fiction	2016-03-01	2016-03-05	Digital	4
+The Last Lecture	Randy Pausch	M	206	2008	English	Nonfiction	Nonfiction	2016-03-04	2016-03-09	Audio	4
+Seconds	Bryan Lee O' Malley	M	323	2014	English	Graphic Novels	Fiction	2016-03-06	2016-03-11	Physical	5
+The Library at Mount Char	Scott Hawkins	M	400	2015	English	Fantasy	Fiction	2016-03-07	2016-03-10	Digital	5
+Murder on the Orient Express	Agatha Christie	F	322	1934	English	Mystery	Fiction	2016-03-10	2016-03-17	Audio	4
+Lexicon	Max Barry	M	390	2013	English	Science Fiction	Fiction	2016-03-14	2016-03-31	Physical	3
+The Complete Chronicles of Narnia	C.S. Lewis	M	523	1949	English	Fantasy	Fiction	2016-03-14	2016-04-24	Physical	3
+Give Us the Ballot: The Modern Struggle for Voting Rights in America	Ari Berman	M	384	2015	English	History	Nonfiction	2016-03-18	2016-04-04	Audio	3
+Dark Matter and the Dinosaurs	Lisa Randall	F	432	2015	English	Science	Nonfiction	2016-03-30	2016-04-10	Digital	2
+Endurance: Shackleton's Incredible Voyage	Alfred Lansing	M	288	1959	English	Nonfiction	Nonfiction	2016-04-05	2016-04-08	Audio	4
+Batman: The Dark Knight Returns	Frank Miller	M	197	1986	English	Graphic Novels	Fiction	2016-04-10	2016-04-11	Physical	3
+11/22/63	Stephen King	M	849	2011	English	Fiction	Fiction	2016-04-11	2016-04-30	Digital	3
+Where'd You Go Bernadette	Maria Semple	F	330	2012	English	Fiction	Fiction	2016-04-13	2016-04-15	Audio	4
+Bad Science	Ben Goldacre	M	338	2008	English	Science	Nonfiction	2016-04-15	2016-04-17	Audio	3
+The $1,000 Genome: The Revolution in DNA Sequencing and the New Era of Personalized Medicine	Kevin Davies	M	352	2010	English	Science	Nonfiction	2016-04-17	2016-04-27	Audio	3
+Gut: The Inside Story of Our Body's Most Underrated Organ	Giulia Enders	F	288	2014	German	Nonfiction	Nonfiction	2016-04-27	2016-05-03	Audio	5
+Dead Wake: The Last Crossing of the Lusitania	Erik Larson	M	430	2015	English	Nonfiction	Nonfiction	2016-05-01	2016-05-06	Physical	5
+Lost Girls: An Unsolved American Mystery	Robert Kolker	M	399	2013	English	Nonfiction	Nonfiction	2016-05-03	2016-05-14	Audio	3
+The Water Knife	Paolo Bacigalupi	M	371	2015	English	Science Fiction	Fiction	2016-05-06	2016-05-14	Digital	4
+On the Origin of Species: The Illustrated Edition	Charles Darwin	M	560	1859	English	Science	Nonfiction	2016-05-09	2016-05-22	Physical	4
+Bossypants	Tina Fey	F	277	2011	English	Nonfiction	Nonfiction	2016-05-14	2016-05-15	Audio	3
+The Great Gatsby	F. Scott Fitzgerald	M	180	1925	English	Classics	Fiction	2016-05-14	2016-05-17	Digital	5
+Alice in Wonderland	Lewis Carroll	M	92	1865	English	Classics	Fiction	2016-05-15	2016-05-17	Audio	4
+The Girl on the Train	Paula Hawkins	F	336	2015	English	Mystery	Fiction	2016-05-17	2016-05-24	Digital	4
+The Golden Compass	Philip Pullman	M	399	1995	English	Fantasy	Fiction	2016-05-17	2016-05-26	Audio	4
+The Way of Kings	Brandon Sanderson	M	1007	2010	English	Fantasy	Fiction	2016-05-24	2016-06-15	Digital	5
+The Subtle Knife	Philip Pullman	M	326	1996	English	Fantasy	Fiction	2016-05-27	2016-06-08	Audio	3
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values	Robert M. Pirsig	M	540	1990	English	Philosophy	Fiction	2016-06-08	2016-06-22	Audio	4
+A Tale of Two Cities	Charles Dickens	M	489	1859	English	Classics	Fiction	2016-06-16	2016-06-24	Digital	5
+Quidditch Through the Ages	J.K. Rowling	F	105	2001	English	Fantasy	Fiction	2016-06-19	2016-06-19	Physical	4
+Harry Potter and the Sorcerer's Stone	J.K. Rowling	F	310	1997	English	Fantasy	Fiction	2016-06-19	2016-06-21	Physical	5
+A Monster Calls	Patrick Ness	M	216	2011	English	Fantasy	Fiction	2016-06-25	2016-06-25	Digital	3
+H is for Hawk	Helen Macdonald	F	300	2014	English	Nonfiction	Nonfiction	2016-06-26	2016-07-01	Digital	5
+The Absolutely True Diary of a Part-Time Indian	Sherman Alexie	M	230	2007	English	Young Adult	Fiction	2016-06-26	2016-06-30	Audio	5
+Mass Effect: Revelation	Drew Karpyshyn	M	323	2007	English	Science Fiction	Fiction	2016-06-30	2016-07-01	Audio	4
+Gutshot	Amelia Gray	F	224	2015	English	Short Stories	Fiction	2016-07-01	2016-07-14	Digital	3
+All the Birds	Evie Wyld	F	240	2013	English	Fiction	Fiction	2016-07-02	2016-07-07	Audio	2
+The Lions of Al-Rassan	Guy Gavriel Kay	M	528	1995	English	Fantasy	Fiction	2016-07-02	2016-07-12	Physical	5
+Animal Farm	George Orwell	M	102	1945	English	Classics	Fiction	2016-07-04	2016-07-04	Audio	5
+The Goldfinch	Donna Tartt	F	773	2013	English	Fiction	Fiction	2016-07-07	2016-07-18	Audio	4
+This One Summer	Mariko Tamaki	F	320	2014	English	Graphic Novels	Fiction	2016-07-10	2016-07-10	Physical	2
+Pedro Paramo	Juan Fulfo	M	128	1955	Spanish	Fiction	Fiction	2016-07-13	2016-07-14	Physical	3
+The Wrenchies	Farel Dalrymple	M	304	2014	English	Graphic Novels	Fiction	2016-07-16	2016-07-18	Physical	2
+The Last Animal	Abby Geni	F	304	2013	English	Short Stories	Fiction	2016-07-18	2016-07-25	Digital	4
+In a Sunburned Country	Bill Bryson	M	335	2000	English	Nonfiction	Nonfiction	2016-07-19	2016-07-29	Audio	4
+Lighthead	Terrance Hayes	M	95	2010	English	Poetry	Fiction	2016-07-20	2016-07-28	Digital	3
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales	Oliver Sacks	M	243	1985	English	Nonfiction	Nonfiction	2016-07-28	2016-08-02	Physical	4
+Deep Down Dark: The Untold Stories of 33 Men Buried in a Chilean Mine, and the Miracle That Set Them Free	Hector Tobar	M	320	2014	English	Nonfiction	Nonfiction	2016-07-29	2016-08-04	Audio	4
+Rice, Noodle, Fish: Deep Travels Through Japan's Food Culture	Matt Goulding	M	352	2015	English	Nonfiction	Nonfiction	2016-08-03	2016-08-09	Digital	5
+All The Light We Cannot See	Anthony Doerr	M	530	2014	English	Historical Fiction	Fiction	2016-08-07	2016-08-24	Audio	3
+Planetfall	Emma Newman	F	336	2015	English	Science Fiction	Fiction	2016-08-10	2016-08-19	Physical	4
+The Tales of Beedle the Bard	J.K. Rowling	F	122	2008	English	Fantasy	Fiction	2016-08-13	2016-08-16	Physical	4
+Harry Potter and the Cursed Child - Parts One and Two	Jack Thorne	M	343	2016	English	Young Adult	Fiction	2016-08-20	2016-08-20	Physical	3
+Cannery Row	John Steinbeck	M	181	1945	English	Classics	Fiction	2016-08-20	2016-08-23	Physical	5
+The Goblin Emperor	Katherine Addison	F	483	2014	English	Fantasy	Fiction	2016-08-24	2016-09-06	Physical	4
+The Amber Spyglass	Philip Pullman	M	467	2000	English	Fantasy	Fiction	2016-08-29	2016-09-13	Audio	2
+Catch-22	Joseph Heller	M	544	1961	English	Classics	Fiction	2016-09-07	2016-09-15	Digital	4
+The Big Picture: On the Origins of Life, Meaning, and the Universe Itself	Sean Carroll	M	480	2016	English	Science	Nonfiction	2016-09-13	2016-10-02	Audio	3
+The Master and Margarita	Mikhail Bulgakov	M	412	1966	Russian	Fiction	Fiction	2016-09-19	2016-09-25	Digital	5
+The Man in the High Castle	Philip K. Dick	M	274	1962	English	Science Fiction	Fiction	2016-09-26	2016-09-27	Digital	5
+The Picture of Dorian Gray	Oscar Wilde	M	224	1890	English	Classics	Fiction	2016-09-27	2016-09-29	Digital	4
+Dune	Frank Herbert	M	604	1965	English	Science Fiction	Fiction	2016-09-29	2016-10-02	Physical	4
+Brave New World	Aldous Huxley	M	268	1932	English	Classics	Fiction	2016-10-02	2016-10-02	Digital	4
+I Contain Multitudes: The Microbes Within Us and a Grander View of Life	Ed Yong	M	368	2016	English	Science	Nonfiction	2016-10-03	2016-10-13	Audio	5
+Cat's Cradle	Kurt Vonnegut	M	191	1963	English	Fiction	Fiction	2016-10-03	2016-10-04	Physical	4
+The Trespasser	Tana French	F	449	2016	English	Mystery	Fiction	2016-10-05	2016-10-09	Physical	5
+The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury	Bill Waterson	M	256	1988	English	Comics	Fiction	2016-10-05	2016-10-19	Digital	4
+The Last Days of Jack Sparks	Jason Arnopp	M	400	2016	English	Horror	Fiction	2016-10-09	2016-10-12	Physical	3
+The Turn of the Screw	Henry James	M	134	1898	English	Classics	Fiction	2016-10-13	2016-10-14	Physical	3
+The Werewolf of Fever Swamp	R.L. Stine	M	144	1993	English	Horror	Fiction	2016-10-14	2016-10-18	Audio	3
+We Have Always Lived in the Castle	Shirley Jackson	F	160	1962	English	Horror	Fiction	2016-10-15	2016-10-16	Physical	3
+The Halloween Tree	Ray Bradbury	M	145	1972	English	Fantasy	Fiction	2016-10-16	2016-10-18	Physical	4
+The Troop	Nick Cutter	M	358	2014	English	Horror	Fiction	2016-10-19	2016-11-02	Digital	3
+The Curse of the Mummy's Tomb	R.L. Stine	M	144	1993	English	Horror	Fiction	2016-10-19	2016-10-24	Audio	3
+Sharp Objects	Gillian Flynn	F	254	2006	English	Mystery	Fiction	2016-10-20	2016-10-25	Digital	3
+The Scarecrow Walks at Midnight	R.L. Stine	M	144	1994	English	Horror	Fiction	2016-10-25	2016-10-28	Audio	3
+Modern Romance	Aziz Ansari	M	277	2015	English	Nonfiction	Nonfiction	2016-10-28	2016-10-30	Audio	5
+The Lost City of Z: A Tale of Deadly Obsession in the Amazon	David Grann	M	351	2009	English	Nonfiction	Nonfiction	2016-10-30	2016-11-07	Audio	3
+Words of Radiance	Brandon Sanderson	M	1080	2014	English	Fantasy	Fiction	2016-11-03	2016-11-18	Digital	5
+Batman: The Long Halloween	Jeph Loeb	M	384	1997	English	Comics	Fiction	2016-11-06	2016-11-06	Physical	4
+His Majesty's Dragon	Naomi Novik	F	353	2006	English	Fantasy	Fiction	2016-11-07	2016-11-16	Audio	3
+Scrappy Little Nobody	Anna Kendrick	F	271	2016	English	Nonfiction	Nonfiction	2016-11-16	2016-11-29	Audio	4
+Radiance	Catherynne M. Valente	F	429	2015	English	Science Fiction	Fiction	2016-11-20	2016-12-08	Physical	5
+The Crack in Space	Philip K. Dick	M	208	1966	English	Science Fiction	Fiction	2016-12-09	2016-12-13	Physical	4
+Stiff: The Curious Lives of Human Cadavers	Mary Roach	F	303	2003	English	Nonfiction	Nonfiction	2016-12-13	2016-12-24	Physical	5

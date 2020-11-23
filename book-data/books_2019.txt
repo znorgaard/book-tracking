@@ -1,0 +1,54 @@
+Title	Author	Author_Sex	Pages	Publication_Year	Original_Language	Genre	Type	Started	Finished	Format	Rating
+Rebecca	Daphne du Maurier	F	449	1938	English	Classics	Fiction	2018-12-19	2019-01-03	Audio	5
+Oryx and Crake	Margaret Atwood	F	400	2003	English	Fiction	Fiction	2018-12-22	2019-01-06	Digital	3
+The Alloy of Law	Brandon Sanderson	M	332	2011	English	Fantasy	Fiction	2019-01-07	2019-01-17	Digital	5
+Harry Potter and the Sorcerer's Stone	J.K. Rowling	F	246	1997	English	Fantasy	Fiction	2019-01-01	2019-01-19	Physical	5
+The Lies of Locke Lamora	Scott Lynch	M	752	2006	English	Fantasy	Fiction	2019-01-04	2019-01-20	Audio	3
+Shadows of Self	Brandon Sanderson	M	383	2015	English	Fantasy	Fiction	2019-01-17	2019-02-06	Digital	5
+Red Seas Under Red Skies	Scott Lynch	M	578	2007	English	Fantasy	Fiction	2019-01-21	2019-02-08	Audio	4
+The Republic of Thieves	Scott Lynch	M	650	2013	English	Fantasy	Fiction	2019-02-08	2019-02-24	Audio	4
+Harry Potter and the Chamber of Secrets	J.K. Rowling	F	259	1998	English	Fantasy	Fiction	2019-01-30	2019-02-27	Physical	4
+Behind Closed Doors	B.A. Paris	F	293	2016	English	Thriller	Fiction	2019-02-25	2019-02-28	Audio	5
+The Bands of Mourning	Brandon Sanderson	M	448	2016	English	Fantasy	Fiction	2019-02-07	2019-03-04	Digital	4
+The Truth About Animals: Stoned Sloths, Lovelorn Hippos, and Other Tales from the Wild Side of Wildlife	Lucy Cooke	F	352	2017	English	Nonfiction	Nonfiction	2019-03-02	2019-03-04	Audio	4
+Midnight at the Bright Ideas Bookstore	Mathew J. Sullivan	M	328	2017	English	Mystery	Fiction	2019-03-07	2019-03-13	Audio	3
+Norwegian Wood	Haruki Murakami	M	296	1987	Japanese	Fiction	Fiction	2019-03-05	2019-03-19	Physical	4
+Dark Matter	Blake Crouch	M	342	2016	English	Science Fiction	Fiction	2019-03-13	2019-03-21	Audio	2
+Black Mad Wheel	Josh Malerman	M	304	2017	English	Horror	Fiction	2019-03-25	2019-03-31	Audio	3
+Harry Potter and the Prisoner of Azkaban	J.K. Rowling	F	328	1999	English	Fantasy	Fiction	2019-03-10	2019-03-31	Physical	5
+Geek Love	Katherine Dunn	F	368	1989	English	Fiction	Fiction	2019-03-21	2019-04-07	Physical	5
+Kokoro	Natsume Soseki	M	238	1914	Japanese	Fiction	Fiction	2019-04-08	2019-04-08	Physical	4
+After Dark	Haruki Murakami	M	244	2004	Japanese	Fiction	Fiction	2019-04-09	2019-04-09	Physical	5
+The Song of Achilles	Madeline Miller	F	370	2011	English	Historical Fiction	Fiction	2019-04-10	2019-04-11	Digital	5
+The Things They Carried	Tim O'Brien	M	259	1990	English	Fiction	Fiction	2019-04-11	2019-04-12	Digital	4
+The Fall	Albert Camus	M	147	1956	French	Fiction	Fiction	2019-04-13	2019-04-13	Physical	4
+Chronicle of a Death Foretold	Gabriel Garcia Marquez	M	120	1981	Spanish	Fiction	Fiction	2019-04-13	2019-04-13	Physical	4
+Children of Dune	Frank Herbert	M	408	1976	English	Science Fiction	Fiction	2019-04-25	2019-05-01	Physical	4
+The Summer Tree	Guy Gavriel Kay	M	383	1984	English	Fantasy	Fiction	2019-04-26	2019-05-12	Audio	3
+The Wandering Fire	Guy Gavriel Kay	M	307	1986	English	Fantasy	Fiction	2019-05-13	2019-05-25	Audio	3
+Harry Potter and the Goblet of Fire	J.K. Rowling	F	735	2000	English	Fantasy	Fiction	2019-05-03	2019-06-05	Digital	5
+The Darkest Road	Guy Gavriel Kay	M	431	1986	English	Fantasy	Fiction	2019-05-29	2019-06-18	Audio	4
+Harry Potter and the Order of the Phoenix	J.K. Rowling	F	901	2003	English	Fantasy	Fiction	2019-06-05	2019-06-27	Digital	4
+The Blade Itself	Joe Abercrombie	M	544	2006	English	Fantasy	Fiction	2019-06-26	2019-07-09	Audio	3
+A Confederacy of Dunces	John Kennedy Toole	M	417	1980	English	Fiction	Fiction	2019-06-30	2019-07-18	Digital	4
+The Emperor's Soul	Brandon Sanderson	M	144	2012	English	Fantasy	Fiction	2019-07-22	2019-07-25	Digital	4
+Convenience Store Woman	Sayaka Murata	F	163	2016	Japanese	Fiction	Fiction	2019-08-25	2019-08-03	Digital	5
+Medea of Euripides	Euripides	M	262	-431	Ancient Greek	Classics	Fiction	2019-08-03	2019-08-06	Digital	4
+Before They Are Hanged	Joe Abercrombie	M	549	2007	English	Fantasy	Fiction	2019-07-10	2019-08-07	Audio	4
+The Last Argument of Kings	Joe Abercrombie	M	642	2008	English	Fantasy	Fiction	2019-08-07	2019-08-27	Audio	5
+The Bell Jar	Sylvia Plath	F	288	1963	English	Classics	Fiction	2019-08-07	2019-08-27	Digital	4
+Killing Commendatore	Haruki Murakami	M	688	2017	Japanese	Fiction	Fiction	2019-07-18	2019-08-26	Physical	4
+The Invited	Jennifer McMahon	F	353	2019	English	Horror	Fiction	2019-08-27	2019-09-04	Audio	3
+Player Piano	Kurt Vonnegut	M	354	1952	English	Fiction	Fiction	2019-08-27	2019-09-09	Digital	4
+The Woman in Cabin 10	Ruth Ware	F	341	2016	English	Mystery	Fiction	2019-09-07	2019-09-12	Audio	3
+The 7 1/2 Deaths of Evelyn Hardcastle	Stuart Turton	M	432	2018	English	Mystery	Fiction	2019-09-15	2019-09-29	Audio	4
+Harry Potter and the Half-Blood Prince	J.K. Rowling	F	668	2005	English	Fantasy	Fiction	2019-09-11	2019-10-06	Digital	4
+Dracula	Bram Stoker	M	496	1897	English	Classics	Fiction	2019-10-07	2019-10-21	Audio	4
+Redshirts	John Scalzi	M	318	2012	English	Science Fiction	Fiction	2019-10-21	2019-10-23	Audio	3
+The Bassoon King: My Life in Art, Faith, and Idiocy	Rainn Wilson	M	301	2015	English	Nonfiction	Nonfiction	2019-10-24	2019-10-29	Audio	2
+A Head Full of Ghosts	Paul Tremblay	M	286	2015	English	Horror	Nonfiction	2019-11-01	2019-11-06	Audio	4
+Harry Potter and the Deathly Hallows	J.K. Rowling	F	784	2007	English	Fantasy	Fiction	2019-10-06	2019-11-11	Digital	4
+The Man from the Train: The Solving of a Century-Old Serial Killer Mystery	Bill James	M	464	2017	English	True Crime	Nonfiction	2019-11-08	2019-11-14	Audio	2
+The Girl Who Played with Fire	Stieg Larsson	M	503	2006	Swedish	Fiction	Fiction	2019-11-27	2019-12-09	Audio	3
+The Girl Who Kicked the Hornet's Nest	Stieg Larsson	M	566	2007	Swedish	Fiction	Fiction	2019-12-09	2019-12-24	Audio	3
+American Psycho	Bret Easton Ellis	M	382	1991	English	Fiction	Fiction	2019-11-12	2019-12-31	Digital	4

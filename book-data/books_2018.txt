@@ -1,0 +1,66 @@
+Title	Author	Author_Sex	Pages	Publication_Year	Original_Language	Genre	Type	Started	Finished	Format	Rating
+A Natural History of Dragons	Marie Brennan	F	334	2013	English	Fantasy	Fiction	2017-12-28	2018-01-05	Audio	3
+Elantris	Brandon Sanderson	M	508	2005	English	Fantasy	Fiction	2017-12-27	2018-01-10	Digital	5
+The Red Pony	John Steinbeck	M	100	1933	English	Classics	Fiction	2018-01-10	2018-01-10	Physical	5
+The Moon is Down	John Steinbeck	M	117	1942	English	Fiction	Fiction	2018-01-11	2018-01-12	Physical	5
+Grendel	John Gardner	M	174	1970	English	Fiction	Fiction	2018-01-14	2018-01-16	Physical	4
+Fire and Fury: Inside the Trump White House	Michael Wolff	M	336	2018	English	Nonfiction	Nonfiction	2018-01-08	2018-01-16	Audio	2
+The Illustrated Man	Ray Bradbury	M	186	1951	English	Science Fiction	Fiction	2018-01-16	2018-01-22	Physical	4
+From the Dust Returned	Ray Bradbury	M	267	2001	English	Fantasy	Fiction	2018-01-23	2018-01-25	Physical	4
+American Wolf: A True Story of Survival and Obsession in the West	Nate Blakeslee	M	320	2017	English	Nonfiction	Nonfiction	2018-01-16	2018-01-22	Audio	5
+Ender's Game	Orson Scott Card	M	324	1985	English	Science Fiction	Fiction	2018-01-25	2018-01-31	Physical	5
+Smoke Gets in Your Eyes: And Other Lessons from the Crematory	Caitlin Doughty	F	272	2014	English	Nonfiction	Nonfiction	2018-01-25	2018-02-05	Audio	5
+Dune Messiah	Frank Herbert	M	331	1969	English	Science Fiction	Fiction	2018-01-31	2018-02-07	Physical	4
+The Graveyard Apartment	Mariko Koike	F	334	1988	Japanese	Horror	Fiction	2018-02-12	2018-02-16	Digital	4
+Buried Memories: Katie Beers' Story	Katie Beers and Carolyn Gusoff	F	279	2013	English	Crime	Nonfiction	2018-02-06	2018-02-16	Audio	3
+July's People	Nadine Gordimer	F	167	1981	English	Fiction	Fiction	2018-02-20	2018-02-23	Digital	4
+Gut: The Inside Story of Our Body's Most Underrated Organ	Giulia Enders	F	271	2014	German	Nonfiction	Nonfiction	2018-02-16	2018-02-24	Audio	5
+Ways of Dying	Zakes Mda	M	224	1995	English	Fiction	Fiction	2018-02-23	2018-02-28	Digital	4
+You're Never Weird on the Internet (Almost)	Felicia Day	F	288	2015	English	Nonfiction	Nonfiction	2018-02-28	2018-03-06	Digital	4
+The Long Way to a Small, Angry Planet	Becky Chambers	F	404	2014	English	Science Fiction	Fiction	2018-02-25	2018-03-08	Audio	5
+Matilda	Roald Dahl	M	240	1988	English	Young Adult	Fiction	2018-03-06	2018-03-08	Digital	2
+The Phantom Tollbooth	Norton Juster	M	274	1961	English	Fantasy	Fiction	2018-03-09	2018-03-13	Digital	2
+You	Caroline Kepnes	F	424	2014	English	Thriller	Fiction	2018-03-08	2018-03-15	Audio	5
+Mrs. Dalloway	Virginia Woolf	F	164	1923	English	Classics	Fiction	2018-03-14	2018-03-23	Digital	4
+Sapiens: A Brief History of Humankind	Yuval Noah Harari	M	443	2011	Hebrew	Nonfiction	Nonfiction	2018-03-15	2018-03-28	Audio	4
+The Grip of It	Jac Jemc	F	273	2017	English	Horror	Fiction	2018-03-26	2018-03-28	Physical	4
+Iron Gold	Pierce Brown	M	600	2018	English	Science Fiction	Fiction	2018-03-28	2018-04-06	Audio	4
+I Am a Cat	Natsume Soseki	M	480	1905	Japanese	Fiction	Fiction	2018-04-02	2018-04-09	Physical	4
+In the Lake of the Woods	Tim O'Brien	M	303	1994	English	Fiction	Fiction	2018-04-10	2018-04-11	Physical	4
+Kafka on the Shore	Haruki Murakami	M	467	2002	Japanese	Fiction	Fiction	2018-04-11	2018-04-14	Physical	5
+Welcome to Your Authentic Indian Experience	Rebecca Roanhorse	F	20	2017	English	Science Fiction	Fiction	2018-04-17	2018-04-17	Digital	3
+A Man Called Ove	Fredrick Backman	M	337	2012	Swedish	Fiction	Fiction	2018-04-14	2018-04-19	Physical	5
+Spineless: The Science of Jellyfish and the Art of Growing a Backbone	Juli Berwald	F	352	2017	English	Nonfiction	Nonfiction	2018-04-06	2018-04-20	Audio	4
+Lab Girl	Hope Jahren	F	290	2016	English	Science	Nonfiction	2018-04-20	2018-04-25	Audio	3
+A Darker Shade of Magic	Victoria Schwab	F	400	2015	English	Young Adult	Fiction	2018-04-26	2018-05-03	Audio	2
+In the Woods	Tana French	F	429	2007	English	Mystery	Fiction	2018-04-21	2018-05-09	Digital	5
+A Closed and Common Orbit	Becky Chambers	F	365	2016	English	Science Fiction	Fiction	2018-05-03	2018-05-16	Audio	5
+The Plague	Albert Camus	M	320	1947	French	Fiction	Fiction	2018-05-09	2018-05-21	Digital	5
+Hell House	Richard Matheson	M	304	1971	English	Horror	Fiction	2018-05-16	2018-05-23	Audio	4
+A Wizard of Earth Sea	Ursula K. Le Guin	F	183	1968	English	Fantasy	Fiction	2018-05-24	2018-06-01	Audio	3
+Crime and Punishment	Fyodor Dostoyevsky	M	564	1866	Russian	Classics	Fiction	2018-05-22	2018-06-09	Physical	4
+My Cousin Rachel	Daphne du Maurier	F	352	1951	English	Classics	Fiction	2018-06-01	2018-06-14	Audio	4
+Into the Drowning Deep	Mira Grant	F	440	2017	English	Horror	Fiction	2018-06-09	2018-06-22	Physical	3
+I Am Not a Serial Killer	Dan Wells	M	272	2009	English	Horror	Fiction	2018-06-23	2018-07-02	Digital	2
+The Terror	Dan Simmons	M	769	2007	English	Historical Fiction	Fiction	2018-06-15	2018-07-03	Audio	3
+The Remains of the Day	Kazuo Ishiguro	M	245	1989	English	Fiction	Fiction	2018-07-03	2018-07-12	Physical	5
+The Bloody Chamber and Other Stories	Angela Carter	F	128	1979	English	Short Stories	Fiction	2018-07-13	2018-07-21	Physical	4
+Red Rising	Pierce Brown	M	382	2014	English	Science Fiction	Fiction	2018-07-21	2018-07-28	Digital	5
+The Buried Giant	Kazuo Ishiguro	M	336	2015	English	Fantasy	Fiction	2018-07-28	2018-08-04	Digital	4
+The Emperor of All Maladies: A Biography of Cancer	Siddhartha Mukherjee	M	592	2010	English	Nonfiction	Nonfiction	2018-07-04	2018-08-10	Audio	2
+Gulliver's Travels	Jonathan Swift	M	306	1726	English	Classics	Fiction	2018-08-04	2018-08-16	Digital	3
+Eleanor Oliphant is Completely Fine	Gail Honeyman	F	327	2017	English	Fiction	Fiction	2018-08-10	2018-09-01	Audio	5
+The Fellowship of the Ring	J.R.R. Tolkien	M	398	1954	English	Fantasy	Fiction	2018-08-27	2018-09-06	Digital	4
+The Two Towers	J.R.R. Tolkien	M	352	1954	English	Fantasy	Fiction	2018-09-07	2018-09-28	Digital	4
+A Tale for the Time Being	Ruth Ozeki	F	422	2013	English	Fiction	Fiction	2018-09-04	2018-10-02	Audio	3
+House of Leaves	Mark Z. Danielewski	M	709	2000	English	Horror	Fiction	2018-09-28	2018-10-12	Physical	3
+Space Opera	Catherynne M. Valente	F	352	2018	English	Science Fiction	Fiction	2018-10-03	2018-10-18	Audio	4
+Something Wicked This Way Comes	Ray Bradbury	M	293	1962	English	Horror	Fiction	2018-10-14	2018-10-23	Digital	5
+The Shining Girls	Lauren Beukes	F	368	2013	English	Fiction	Fiction	2018-10-21	2018-11-05	Audio	3
+Record of a Spaceborn Few	Becky Chambers	F	359	2018	English	Science Fiction	Fiction	2018-11-05	2018-11-13	Audio	5
+The Witch Elm	Tana French	F	464	2018	English	Mystery	Fiction	2018-10-23	2018-11-21	Digital	4
+Mistborn: The Final Empire	Brandon Sanderson	M	676	2006	English	Fantasy	Fiction	2018-11-21	2018-11-26	Digital	5
+Great Expectations	Charles Dickens	M	512	1860	English	Classics	Fiction	2018-11-12	2018-12-11	Audio	5
+The Well of Ascension	Brandon Sanderson	M	815	2007	English	Fantasy	Fiction	2018-11-27	2018-12-13	Digital	5
+Storm in a Teacup: The Physics of Everyday Life	Helen Czerski	F	273	2017	English	Science	Nonfiction	2018-12-11	2018-12-19	Audio	5
+The Hero of Ages	Brandon Sanderson	M	785	2008	English	Fantasy	Fiction	2018-12-14	2018-12-22	Digital	5

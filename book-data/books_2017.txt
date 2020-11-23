@@ -1,0 +1,69 @@
+Title	Author	Author_Sex	Pages	Publication_Year	Original_Language	Genre	Type	Started	Finished	Format	Rating
+Cryptonomicon	Neal Stephenson	M	1139	1999	English	Fiction	Fiction	2016-11-30	2017-01-10	Audio	2
+The Iliad	Homer	M	683	-800	Ancient Greek	Classics	Fiction	2016-12-26	2017-01-15	Physical	4
+Throne of Jade	Naomi Novik	F	398	2006	English	Fantasy	Fiction	2017-01-10	2017-01-19	Audio	3
+On the Road	Jack Kerouac	M	307	1957	English	Classics	Fiction	2017-01-15	2017-01-22	Digital	5
+The Pterodactyl Hunters in the Gilded City	Brendan Leach	M	44	2010	English	Comics	Fiction	2017-01-22	2017-01-22	Digital	2
+The Brief Wondrous Life of Oscar Wao	Junot Diaz	M	335	2007	English	Fiction	Fiction	2017-01-19	2017-01-27	Audio	3
+The Adventures of Tom Sawyer	Mark Twain	M	225	1876	English	Classics	Fiction	2017-01-27	2017-02-08	Audio	4
+The Dragonbone Chair	Tad Williams	M	672	1988	English	Fantasy	Fiction	2017-01-23	2017-02-11	Physical	5
+The Hanging Tree	Ben Aaronovitch	M	387	2016	English	Fantasy	Fiction	2017-02-11	2017-02-16	Physical	3
+I Am Legend	Richard Matheson	M	160	1954	English	Horror	Fiction	2017-02-09	2017-02-20	Audio	5
+Labyrinth Lost	Zoraida Cordova	F	336	2016	English	Fantasy	Fiction	2017-02-21	2017-02-27	Digital	3
+Black Powder War	Naomi Novik	F	365	2006	English	Fantasy	Fiction	2017-02-21	2017-03-06	Audio	4
+Your Heart is a Muscle the Size of a Fist	Sunil Yapa	M	320	2016	English	Fiction	Fiction	2017-02-27	2017-03-09	Digital	2
+Grave Surprise	Charlaine Harris	F	295	2006	English	Mystery	Fiction	2017-03-06	2017-03-17	Audio	2
+Stone of Farewell	Tad Williams	M	608	1990	English	Fantasy	Fiction	2017-03-12	2017-03-25	Physical	4
+Castle Waiting, Vol. 1	Linda Medley	F	457	2006	English	Graphic Novels	Fiction	2017-03-27	2017-03-29	Physical	3
+The Martian Chronicles	Ray Bradbury	M	182	1950	English	Science Fiction	Fiction	2017-03-30	2017-04-02	Physical	3
+Empire of Ivory	Naomi Novik	F	404	2007	English	Fantasy	Fiction	2017-03-20	2017-04-03	Audio	4
+Annihilation	Jeff VanderMeer	M	195	2014	English	Science Fiction	Fiction	2017-04-03	2017-04-05	Physical	4
+The Watch Maker of Filigree Street	Natasha Pulley	F	318	2015	English	Fantasy	Fiction	2017-04-03	2017-04-12	Audio	4
+To Green Angel Tower, Part 1	Tad Williams	M	815	1993	English	Fantasy	Fiction	2017-04-05	2017-04-19	Physical	4
+Victory of Eagles	Naomi Novik	F	352	2008	English	Fantasy	Fiction	2017-04-13	2017-04-20	Audio	4
+Authority	Jeff VanderMeer	M	341	2014	English	Science Fiction	Fiction	2017-04-19	2017-04-24	Physical	3
+Acceptance	Jeff VanderMeer	M	341	2014	English	Science Fiction	Fiction	2017-04-24	2017-04-26	Digital	3
+Tongues of Serpents	Naomi Novik	F	274	2010	English	Fantasy	Fiction	2017-04-21	2017-04-27	Audio	4
+Their Eyes Were Watching God	Zora Neale Hurston	F	256	1937	English	Classics	Fiction	2017-04-25	2017-05-03	Digital	4
+Beyond Infinity	Eugenia Cheng	F	320	2017	English	Nonfiction	Nonfiction	2017-04-28	2017-05-04	Audio	4
+Crucible of Gold	Naomi Novik	F	325	2012	English	Fantasy	Fiction	2017-05-05	2017-05-16	Audio	4
+It	Stephen King	M	1478	1986	English	Horror	Fiction	2017-05-03	2017-05-24	Digital	3
+Blood of Tyrants	Naomi Novik	F	432	2013	English	Fantasy	Fiction	2017-05-16	2017-05-31	Audio	3
+Frankenstein	Mary Shelley	F	240	1818	English	Classics	Fiction	2017-05-24	2017-06-01	Digital	4
+The Book of the Unnamed Midwife	Meg Elison	F	291	2014	English	Science Fiction	Fiction	2017-06-02	2017-06-06	Physical	3
+Yes Please	Amy Poehler	F	329	2014	English	Nonfiction	Nonfiction	2017-06-01	2017-06-13	Audio	2
+League of Dragons	Naomi Novik	F	380	2016	English	Fantasy	Fiction	2017-06-14	2017-06-18	Audio	4
+To Green Angerl Tower, Part 2	Tad Williams	M	815	1993	English	Fantasy	Fiction	2017-06-07	2017-06-29	Physical	4
+Monterey Bay	Lindsay Hatton	F	310	2016	English	Fiction	Fiction	2017-06-19	2017-06-29	Audio	1
+The Vegetarian	Han Kang	F	194	2007	Korean	Fiction	Fiction	2017-06-30	2017-07-02	Digital	4
+Tortilla Flat	John Steinbeck	M	207	1935	English	Fiction	Fiction	2017-07-03	2017-07-09	Physical	5
+The Unbeatable Squirrel Girl, Volume 1: Squirrel Power	Ryan North	M	128	2015	English	Graphic Novels	Fiction	2017-07-18	2017-07-18	Physical	3
+The Pearl	John Steinbeck	M	90	1947	English	Classics	Fiction	2017-07-11	2017-07-21	Physical	4
+Monstress, Vol 1: Awakening	Marjorie M. Liu	F	202	2016	English	Graphic Novels	Fiction	2017-07-19	2017-07-25	Digital	3
+The Gene: An Intimate History	Siddhartha Mukherjee	M	592	2016	English	Science	Nonfiction	2017-06-30	2017-07-28	Audio	4
+Black Boy	Richard Wright	M	448	1945	English	Classics	Nonfiction	2017-07-25	2017-08-05	Digital	4
+The Great Passage	Shion Miura	F	224	2011	Japanese	Fiction	Fiction	2017-08-05	2017-08-10	Digital	4
+The House of the Spirits	Isabel Allende	F	448	1982	Spanish	Fiction	Fiction	2017-07-29	2017-08-14	Audio	3
+Flight	Sherman Alexie	M	181	2007	English	Fiction	Fiction	2017-08-15	2017-08-16	Audio	4
+Brief Interviews with Hideous Men	David Foster Wallace	M	321	1999	English	Short Stories	Fiction	2017-08-17	2017-08-23	Audio	4
+The Handmaid's Tale	Margaret Atwood	F	324	1985	English	Fiction	Fiction	2017-08-10	2017-08-27	Digital	3
+World War Z	Max Brooks	M	342	2006	English	Horror	Fiction	2017-08-23	2017-08-31	Audio	5
+The Giver	Lois Lowry	F	204	1993	English	Childrens	Fiction	2017-08-28	2017-08-31	Digital	3
+Lost Animals: Extinction and the Photographic Record	Errol Fuller	M	256	2013	English	Nonfiction	Nonfiction	2017-09-05	2017-09-08	Physical	4
+Bird Box	Josh Malerman	M	262	2014	English	Horror	Fiction	2017-09-04	2017-09-11	Audio	5
+Saigyo: Poems of a Mountain Home	Saigyo	M	240	1991	Japanese	Poetry	Fiction	2017-09-11	2017-09-15	Physical	4
+Grunt: The Curious Science of Humans at War	Mary Roach	F	288	2016	English	Nonfiction	Nonfiction	2017-09-18	2017-09-24	Physical	4
+Godzilla: The Half Century War	James Stokoe	M	124	2013	English	Comics	Fiction	2017-09-25	2017-09-25	Digital	5
+Six of Crows	Leigh Bardugo	F	462	2015	English	Fantasy	Fiction	2017-09-11	2017-09-27	Audio	5
+The Haunting of Hill House	Shirley Jackson	F	246	1959	English	Horror	Fiction	2017-09-29	2017-10-05	Digital	4
+Crooked Kingdom	Leigh Bardugo	F	536	2016	English	Fantasy	Fiction	2017-09-28	2017-10-18	Audio	5
+The October Country	Ray Bradbury	M	336	1955	English	Short Stories	Fiction	2017-10-10	2017-10-21	Physical	4
+The Fifth Season	N.K. Jemisin	F	468	2015	English	Fantasy	Fiction	2017-10-18	2017-11-07	Audio	4
+Monstress, Vol. 2: The Blood	Marjorie M. Liu	F	152	2017	English	Graphic Novels	Fiction	2017-11-07	2017-11-07	Physical	4
+The Odyssey	Homer	M	541	-720	Ancient Greek	Classics	Fiction	2017-10-23	2017-11-12	Physical	4
+There Exists an X, X is a Sandwich	Joel K. Jensen	M	102	2012	English	Philosophy	Nonfiction	2017-11-13	2017-11-13	Physical	5
+The Obelisk Gate	N.K. Jemisin	F	448	2016	English	Fantasy	Fiction	2017-11-07	2017-11-28	Audio	5
+The Stone Sky	N.K. Jemisin	F	413	2017	English	Fantasy	Fiction	2017-11-28	2017-12-14	Audio	4
+A Christmas Carol	Charles Dickens	M	104	1843	English	Classics	Fiction	2017-12-14	2017-12-19	Audio	5
+Oathbringer	Brandon Sanderson	M	1242	2017	English	Fantasy	Fiction	2017-11-14	2017-12-27	Digital	5
+The Hidden Life of Trees: What They Feel, How They Communicate - Discoveries from a Secret World	Peter Wohlleben	M	271	2015	German	Nonfiction	Nonfiction	2017-12-19	2017-12-28	Audio	4
