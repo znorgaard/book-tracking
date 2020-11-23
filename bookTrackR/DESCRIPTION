@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "zach807@gmail.com")
 Description: This package supplies tools for visualizing data from tables of books you've read.
-License: `use_mit_license()`
+License: GPL
 Encoding: UTF-8
 Imports:
   assertable,

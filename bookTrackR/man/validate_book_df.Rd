@@ -2,14 +2,14 @@
 % Please edit documentation in R/utils.R
 \name{validate_book_df}
 \alias{validate_book_df}
-\title{Function to validate book \code{data.frame} is formatted correctly}
+\title{Function to validate book `data.frame` is formatted correctly}
 \usage{
 validate_book_df(book_df)
 }
 \arguments{
-\item{book_df}{\code{data.frame} to be validated.
-Required columns are listed in /code{/link{BOOKTRACKR_REQUIRED_COLUMNS}}}
+\item{book_df}{`data.frame` to be validated.
+Required columns are listed in \code{\link{BOOKTRACKR_REQUIRED_COLUMNS}}}
 }
 \description{
-Function to validate book \code{data.frame} is formatted correctly
+Function to validate book `data.frame` is formatted correctly
 }

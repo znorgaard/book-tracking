@@ -2,13 +2,13 @@
 % Please edit documentation in R/utils.R
 \name{format_book_df}
 \alias{format_book_df}
-\title{Function to format book \code{data.frame} for bookTrackR functions}
+\title{Function to format book `data.frame` for bookTrackR functions}
 \usage{
 format_book_df(book_df)
 }
 \arguments{
-\item{book_df}{\code{data.frame} to be formatted}
+\item{book_df}{`data.frame` to be formatted}
 }
 \description{
-Function to format book \code{data.frame} for bookTrackR functions
+Function to format book `data.frame` for bookTrackR functions
 }

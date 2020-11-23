@@ -2,10 +2,10 @@
 % Please edit documentation in R/utils.R
 \name{BOOKTRACKR_REQUIRED_COLUMNS}
 \alias{BOOKTRACKR_REQUIRED_COLUMNS}
-\title{The columns required in \code{data.frame} to be used with bookTrackR functions}
+\title{The columns required in `data.frame` to be used with bookTrackR functions}
 \usage{
 BOOKTRACKR_REQUIRED_COLUMNS()
 }
 \description{
-The columns required in \code{data.frame} to be used with bookTrackR functions
+The columns required in `data.frame` to be used with bookTrackR functions
 }

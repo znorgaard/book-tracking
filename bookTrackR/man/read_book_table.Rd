@@ -9,8 +9,10 @@ read_book_table(book_table_path, sep = "\\t", ...)
 \arguments{
 \item{book_table_path}{Path to the book table data file}
 
-\item{sep}{The separator used in the book table data file.
-Default = "\t".}
+\item{sep}{The separator used in the book table data file.}
+
+\item{...}{Additional arguments to be passed to \code{\link{read.table}}
+Default = '\\t'.}
 }
 \description{
 Function to read in book data and return a validate data.frame

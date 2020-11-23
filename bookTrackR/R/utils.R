@@ -2,11 +2,12 @@
 #'
 #' @param book_table_path Path to the book table data file
 #' @param sep The separator used in the book table data file.
-#' Default = "\t".
+#' @param ... Additional arguments to be passed to \code{\link{read.table}}
+#' Default = '\\t'.
 #'
 #' @export
 read_book_table <- function(book_table_path, sep = "\t", ...) {
-  book_df <- read.delim(book_table_path, sep = sep, stringsAsFactors = FALSE, ...)
+  book_df <- utils::read.table(book_table_path, sep = sep, header = TRUE, stringsAsFactors = FALSE, ...)
 
   validate_book_df(book_df = book_df)
 
@@ -16,7 +17,7 @@ read_book_table <- function(book_table_path, sep = "\t", ...) {
 #' Function to validate book `data.frame` is formatted correctly
 #'
 #' @param book_df `data.frame` to be validated.
-#' Required columns are listed in /code{/link{BOOKTRACKR_REQUIRED_COLUMNS}}
+#' Required columns are listed in \code{\link{BOOKTRACKR_REQUIRED_COLUMNS}}
 #'
 #' @export
 validate_book_df <- function(book_df) {
