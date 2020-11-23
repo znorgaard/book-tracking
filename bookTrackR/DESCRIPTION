@@ -10,7 +10,7 @@ Description: This package supplies tools for visualizing data from tables of boo
 License: `use_mit_license()`
 Encoding: UTF-8
 Imports:
-  assertable
+  assertable,
   assertthat
 RoxygenNote: 7.1.1
 Suggests:
