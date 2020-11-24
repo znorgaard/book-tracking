@@ -7,8 +7,25 @@
 format_book_df(book_df)
 }
 \arguments{
-\item{book_df}{`data.frame` to be formatted}
+\item{book_df}{\code{data.frame} to be formatted}
+}
+\value{
+\code{data.frame} formatted for use with other \code{bookTrackR} functions.
 }
 \description{
-Function to format book `data.frame` for bookTrackR functions
+Function to format book `data.frame` for use with other \code{bookTrackR} functions.
+The \code{book_df} is validated with \code{\link{validate_book_df}} before formatting.
+Current formatting includes:
+setting factor levels for the \code{getOption("bookTrackR.format.column")}
+}
+\examples{
+
+minimal_book_df <-  data.frame(
+  "Title"  = c("Cannery Row"),
+  "Author" = c("John Steinbeck"),
+  "Format" = c(names(getOption("bookTrackR.format.colors"))[1])
+)
+
+format_book_df(minimal_book_df) 
+
 }

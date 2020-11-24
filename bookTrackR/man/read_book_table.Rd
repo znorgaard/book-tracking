@@ -2,7 +2,7 @@
 % Please edit documentation in R/utils.R
 \name{read_book_table}
 \alias{read_book_table}
-\title{Function to read in book data and return a validate data.frame}
+\title{Function to read in book data from a file and return a validated `data.frame`}
 \usage{
 read_book_table(book_table_path, sep = "\\t", ...)
 }
@@ -14,6 +14,34 @@ read_book_table(book_table_path, sep = "\\t", ...)
 \item{...}{Additional arguments to be passed to \code{\link{read.table}}
 Default = '\\t'.}
 }
+\value{
+Returns a \code{data.frame} formatted for easy use with visualization functions.
+}
 \description{
-Function to read in book data and return a validate data.frame
+Function to read in book data, validate the table, and return a formatted \code{data.frame}.
+The validation is done by \code{\link{validate_book_df}}.
+The formatting is done by \code{\link{format_book_df}}.
+}
+\examples{
+# Generate example data
+minimal_book_df <-  data.frame(
+  "Title"  = c("Cannery Row"),
+  "Author" = c("John Steinbeck"),
+  "Format" = c(names(getOption("bookTrackR.format.colors"))[1])
+)
+
+# Save example data
+tmp_txt_path <- tempfile(pattern = "", fileext = ".txt")
+tmp_csv_path <- tempfile(pattern = "", fileext = ".csv")
+
+write.table(minimal_book_df, tmp_txt_path, quote = FALSE, sep = "\t", row.names = FALSE)
+write.table(minimal_book_df, tmp_csv_path, quote = FALSE, sep = ",", row.names = FALSE)
+
+# Read example data
+minimal_txt_book_df <- read_book_table(tmp_txt_path)
+minimal_csv_book_df <- read_book_table(tmp_csv_path, sep = ",")
+
+# Cleanup
+unlink(c(tmp_txt_path, tmp_csv_path))
+
 }

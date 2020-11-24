@@ -7,9 +7,34 @@
 validate_book_df(book_df)
 }
 \arguments{
-\item{book_df}{`data.frame` to be validated.
-Required columns are listed in \code{\link{BOOKTRACKR_REQUIRED_COLUMNS}}}
+\item{book_df}{`data.frame` to be validated.}
+}
+\value{
+\code{TRUE} if \code{data.frame} is valid else throws an error
 }
 \description{
-Function to validate book `data.frame` is formatted correctly
+function to validate a book \code{data.frame} is formatted correctly for use with \code{bookTrackR} functions.
+A valid \code{data.frame} will contain all column names returned by \code{\link{BOOKTRACKR_REQUIRED_COLUMNS}}.
+A valid \code{data.frame} will contain a column named \code{getOption("bookTrackR.format.column")} with only values from
+\code{names(getOption("bookTrackR.format.colors"))}
+}
+\examples{
+
+minimal_book_df <-  data.frame(
+  "Title"  = c("Cannery Row"),
+  "Author" = c("John Steinbeck"),
+  "Format" = c(names(getOption("bookTrackR.format.colors"))[1])
+)
+
+# Valid data.frame
+validate_book_df(minimal_book_df)
+
+\dontrun{
+# Does not include required columns
+validate_book_df(data.frame())
+
+# Has invalid values in getOption("bookTrackR.format.column")
+validate_book_df(rbind(minimal_book_df, c("Ye", "Kanye West", "CD")))
+}
+
 }
