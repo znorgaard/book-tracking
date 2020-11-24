@@ -62,9 +62,6 @@ test_that(
   }
 )
 
-test_that(
-  ""
-)
 
 # Cleanup
 unlink(c(tmp_txt_path, tmp_csv_path))
